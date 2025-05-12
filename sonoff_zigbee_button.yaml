@@ -15,7 +15,7 @@ blueprint:
           - manufacturer: eWeLink
             model: SNZB-01P
           - manufacturer: eWeLink
-            model: Wireless button (SNZB-01P)
+            model: Wireless button
           multiple: false
     mode:
       name: Automation mode
