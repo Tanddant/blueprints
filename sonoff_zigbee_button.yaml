@@ -10,12 +10,6 @@ blueprint:
       selector:
         device:
           filter:
-          - manufacturer: eWeLink
-            model: WB01
-          - manufacturer: eWeLink
-            model: SNZB-01P
-          - manufacturer: SONOFF
-            model: SNZB-01P
           multiple: false
     mode:
       name: Automation mode
